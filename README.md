@@ -8,8 +8,6 @@ given name which helps you to manage your screenshots efficiently. and
 as well as saves your lots of time that you spend to rename and move 
 your screenshots.
 
-*Requirements
-
 * Step 1:- Firstly enter a path where you wanna save your screenshot.
 
 * Step 2:- After that enter a name of screenshot as you want.
